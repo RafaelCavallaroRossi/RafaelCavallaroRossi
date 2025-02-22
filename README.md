@@ -1,6 +1,6 @@
 # |Rélou Uordi| 👋
 
-- 🔭 I’m currently working on:       Making my own README.md on Github (R4finha_132).
+- 🔭 I’m currently working on:<!--a-->Making my own README.md on Github (R4finha_132).
 - 🌱 I’m currently learning:         Play music in a Tesla coil.
 - 👯 I’m looking to collaborate on:  SpaceX.
 - 🤔 I’m looking for help with:      Learn to play Berimbau.
