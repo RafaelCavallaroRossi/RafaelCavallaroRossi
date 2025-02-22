@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on:__SpaceX.
 - 🤔 I’m looking for help with:_______Learn to play Berimbau.
 - 💬 Ask me about:__________________How much time you need to learn a Berimbau.
-- 📫 How to reach me:________________Searching my IP number.
+- 📫 How to reach me:_______________Searching my IP number.
 - 😄 Pronouns:_______________________Mim.
-- ⚡ Fun fact:_______________________I'm receve the 🥉 of 2023 OBEMEP today.
+- ⚡ Fun fact:________________________I'm receve the 🥉 of 2023 OBEMEP today.
 
 
 
