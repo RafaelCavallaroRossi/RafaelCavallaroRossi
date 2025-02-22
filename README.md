@@ -1,13 +1,13 @@
 # |Rélou Uordi| 👋
 
-- 🔭 I’m currently working on:<!--a-->Making my own README.md on Github (R4finha_132).
-- 🌱 I’m currently learning:         Play music in a Tesla coil.
-- 👯 I’m looking to collaborate on:  SpaceX.
-- 🤔 I’m looking for help with:      Learn to play Berimbau.
-- 💬 Ask me about:                   How much time you need to learn a Berimbau.
-- 📫 How to reach me:                Searching my IP number.
-- 😄 Pronouns:                       Mim.
-- ⚡ Fun fact:                       I'm receve the 3th place medal of 2023 OBEMEP today.
+- 🔭 I’m currently working on:_______Making my own README.md on Github (R4finha_132).
+- 🌱 I’m currently learning:_________Play music in a Tesla coil.
+- 👯 I’m looking to collaborate on:__SpaceX.
+- 🤔 I’m looking for help with:______Learn to play Berimbau.
+- 💬 Ask me about:___________________How much time you need to learn a Berimbau.
+- 📫 How to reach me:________________Searching my IP number.
+- 😄 Pronouns:_______________________Mim.
+- ⚡ Fun fact:_______________________I'm receve the 🥉 of 2023 OBEMEP today.
 
 
 
