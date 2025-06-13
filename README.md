@@ -9,7 +9,8 @@
 - 😄 Pronouns:_______________________Mim.
 - ⚡ Fun fact:________________________I'm receve the 🥉 of 2023 OBEMEP today.
 
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 YOUTUBE (https://www.youtube.com/@R4finha_132)
