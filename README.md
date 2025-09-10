@@ -26,3 +26,14 @@ YOUTUBE (https://www.youtube.com/@R4finha_132)
 ###### *num ser alienígena que bota pra quebrar;*
 
 ###### *É O BEN10!!!*
+
+---
+
+<div>
+<center><img width=1000 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /></center>
+  
+  <img height=160em src="https://github-readme-stats.vercel.app/api?username=RafaelCavallaroRossi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark">
+  <img height=160em src="https://github-readme-streak-stats-rrafaelc.vercel.app?user=RafaelCavallaroRossi&theme=chartreuse-dark&hide_border=false&disable_animations=true" alt="Rafael's Streaks">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCavallaroRossi)
+</div>
