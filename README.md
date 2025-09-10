@@ -1,5 +1,5 @@
-# |Rélou Uordi| 👋
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<h1 align="center"> |Rélou Uordi| 👋 </h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 - 🔭 I’m currently working on:_______Making my own README.md on Github (R4finha_132).
 - 🌱 I’m currently learning:__________Play music in a Tesla coil.
@@ -8,6 +8,8 @@
 - 💬 Ask me about:__________________How much time you need to learn a Berimbau.
 - 📫 How to reach me:_______________Searching my IP number.
 - 😄 Pronouns:_______________________Mim.
+- ⚡ Fun fact:________________________I'm receive the 🥉 of 2023 OBEMEP today.
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
