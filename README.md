@@ -32,17 +32,17 @@
 <p align="center">🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔</p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-  <a href="discord.com/channels/@r4finha_132"><img src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge"/></a>
-  <a href="twitter.com/Rafoso_132"><img src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF"/></a>
-  <a href="www.youtube.com/@R4finha_132"><img src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B"/></a>
+  <a href="https://rafacavallarorossi132@gmail.com"><img src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  <a href="https://discord.com/channels/@r4finha_132"><img src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94"/></a>
+  <a href="https://rafacavallarorossi132@gmail.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge"/></a>
+  <a href="https://twitter.com/Rafoso_132"><img src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge"/></a>
+  <a href="https://rafacavallarorossi132@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"/></a>
+  <a href="https://rafacavallarorossi132@gmail.com"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
+  <a href="https://rafacavallarorossi132@gmail.com"><img src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998"/></a>
+  <a href="https://rafacavallarorossi132@gmail.com"><img src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500"/></a>
+  <a href="https://rafacavallarorossi132@gmail.com"><img src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF"/></a>
+  <a href="https://www.youtube.com/@R4finha_132"><img src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red"/></a>
+  <a href="https://rafacavallarorossi132@gmail.com"><img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B"/></a>
 </p>
 
 <p align="center">
