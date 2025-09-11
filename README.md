@@ -1,4 +1,7 @@
-<h1 align="center"> |Rélou Uordi| 👋 </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=|Rélou%20Uordi|%20👋&fontSize=40&fontColor=ffffff" alt="header"/>
+</p>
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 - 🔭 I’m currently working on:_______Making my own README.md on Github (R4finha_132).
@@ -38,6 +41,9 @@
 <a href=" " target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=RafaelCavallaroRossi&label=Profile%20views&color=ce9927&style=flat" alt="RafaelCavallaroRossi" />
+</p>
+<p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
     <img 
       src="https://readme-typing-svg.demolab.com?lines=BIZZARRO;ME%20AJUDA;LOKURA%20ESSE%20NEGOCIO;ME%20DA%20UM%20REAL;A%20historia%20comecou%20quando%20um%20relogio%20esquisito;Grudou%20no%20pulso%20dele,%20vindo%20la%20do%20infinito;Agora%20tem%20poderes;e%20com%20eles%20faz%20bonito;E%20O%20BEN10;Se%20acaso%20encontra-lo,%20voce%20vai%20se%20admirar;Diante%20dos%20seus%20olhos%20ele%20vai%20se%20transformar;Em%20um%20ser%20alienigena%20que%20bota%20pra%20quebrar;E%20O%20BEN10;&font=Fira+Code&center=true&width=600&height=45&color=20C20E&vCenter=true&pause=1000&size=22"
@@ -52,11 +58,20 @@
 <p align="center"><img alt="GitHub WidgetBox" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /></p>
 <p align="center"><img alt="GitHub WidgetBox" width="50%" src="https://github-readme-stats.vercel.app/api?username=RafaelCavallaroRossi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"> 
   <img alt="GitHub WidgetBox" width="40%" src="https://github-readme-streak-stats-rrafaelc.vercel.app?user=RafaelCavallaroRossi&theme=chartreuse-dark&hide_border=false&disable_animations=true" alt="Rafael's Streaks"></p>
-  
+
+<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+<img align="right" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCavallaroRossi&theme=gotham&layout=compact"width="40%"/> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelCavallaroRossi&theme=2077" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelCavallaroRossi&theme=2077" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCavallaroRossi&theme=gotham&layout=compact"width="40%"/>
 </p>
 </div>
+
+
+
+
+
+
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
  
@@ -225,15 +240,39 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelCavallaroRossi&theme=2077" />
+</p>
+
+<p align="center">
     <a href="https://jrohit.com.np/">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelCavallaroRossi&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
+<table align="center">
+          <tr>
+    <td align="center" width="65%">
+      <a href="https://github.com/git-goods/gitanimals">
+        <img src="https://render.gitanimals.org/lines/RafaelCavallaroRossi?pet-id=1"
+             width="100%" alt="Gitanimals Line Mode" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Riga 2: Gitanimals Farm Mode su tutta la larghezza -->
+    <td colspan="2" align="center">
+      <a href="https://github.com/git-goods/gitanimals">
+        <img src="https://render.gitanimals.org/farms/RafaelCavallaroRossi"
+             width="80%" alt="Gitanimals Farm Mode" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
         <img src="https://github-profile-trophy.vercel.app/?username=RafaelCavallaroRossi&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
+
 
 ---
 <div align="center">
@@ -261,6 +300,9 @@
 
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RafaelCavallaroRossi" alt="Visitor Count" />
+</p>
 </div>
 
 <div align="center">
@@ -268,6 +310,9 @@
         "Para salvar o planeta destrua a humanidade, para salvar a humanidade destrua o planeta." </br>
       (Rafael C. Rossi 2021)</b>
     </i>
+      <p> <img width="70" src="https://i.pinimg.com/originals/0d/c9/68/0dc968448592a7d533096b74c263cc40.gif" /></p>
 </div>
 
+
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
