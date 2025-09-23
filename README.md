@@ -189,13 +189,6 @@
   </tr>
 </table>
 
-<!-- TROPHIES -->
-<p align="center">
-  <a href="https://github.com/jrohitofficial/jrohitofficial">
-    <img src="https://github-profile-trophy.vercel.app/?username=RafaelCavallaroRossi&column=-1&theme=dracula&layout=compact" width="95%"/>
-  </a>
-</p>
-
 <!-- BADGES -->
 <div align="center">
 
